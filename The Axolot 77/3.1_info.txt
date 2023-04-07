@@ -34,7 +34,7 @@ Base pack is made by          : Simon Kalmi Claesson
       chamelont           : "Chamelont"
       chipmunk            : "chipmunkZ00Z"
       bird                : "Bird Gang"
-      bird_flying         : "Bird flying"
+      bird_flying         : "Bird Flying"
   Hats++:
       allay               : "allay"
       arrow               : "arrow"
@@ -75,10 +75,10 @@ Base pack is made by          : Simon Kalmi Claesson
       ducky_hat           : "ducky hat"
       unicorn_hat         : "unicorn hat"
       little_devil        : "little devil"
-  JesterHats:
-      jaster_hat_black    : "Black Jaster Hat"
-      jaster_hat_yellow   : "Yellow Jaster Hat"
-      jester_hat_pink     : "Pink Jester Hat"
+  JesterHats (renamed some):
+      jester_hat_black    : "Black Jester Hat"  (OGNAME: "Black Jaster Hat")
+      jester_hat_yellow   : "Yellow Jester Hat" (OGNAME: "Yellow Jaster Hat")
+      jester_hat_pink     : "Pink Jester Hat"   (OGNAME: "Pink Jester Hat")
   SteampunkGoggles:
       steampunk_goggles   : "Steampunk Goggles"
   VillagerHats (renamed):
