@@ -118,7 +118,7 @@ VillagerHats:
   /assets/minecraft/optifine/cit/villagerhats/*
   
 **HASHES**
-  3.1.zip : 
+  3.1.zip : EA10AE054BBE328CC90CC8F3E801616DE0E143CB
   
 **License**
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
