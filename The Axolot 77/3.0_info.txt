@@ -77,6 +77,8 @@ Hats++:
   /assets/minecraft/optifine/emissive.properties
   /assets/minecraft/optifine/cit/hats_plus_plus/*
   
+**HASHES**
+  3.0.zip : EC0DC5B4DCFB9B57AF7E500AE2A84D6850A732CC
   
 **License**
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
