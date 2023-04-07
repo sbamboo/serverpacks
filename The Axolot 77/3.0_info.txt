@@ -13,6 +13,9 @@ Contributions:
   The Masked Hat              : Tor Andersson
   The Pearlecent Blade        : Simon Kalmi Claesson
   Harrelama                   : Tor Andersson / Simon Kalmi Claesson
+  Axelot    (And assets)      : Tor Andersson
+  Chamelont (And assets)      : Tor Andersson
+  Chipmunk  (And assets)      : Tor Andersson
 
 Any other assets is made by   : Simon Kalmi Claesson
 Base pack is made by          : Simon Kalmi Claesson
@@ -21,6 +24,9 @@ Base pack is made by          : Simon Kalmi Claesson
 **Hat names**
   Custom:
       harrelama           : "HarreLLama"
+      axelot              : "Axolot77"
+      chamelont           : "Chamelont"
+      chipmunk            : "chipmunkZ00Z"
   Hats++:
       allay               : "allay"
       arrow               : "arrow"
