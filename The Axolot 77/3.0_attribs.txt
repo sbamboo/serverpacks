@@ -1,8 +1,11 @@
+! THIS PACK IS FOR PRIVATE/PERSONAL USE ONLY !
+
 **Attribution Information for: The Axolot 77's Serverpack 3.0**
 
 Merged Resorcepacks:
   ShieldCorrections+[Colored] : https://www.curseforge.com/minecraft/texture-packs/shieldcorrections
   Hats++1.1                   : https://www.curseforge.com/minecraft/texture-packs/hats-plus
+  *The authors of the merged packs remains in full ownership of their packs/assets and remains with the right to contact me to remove the pack from the merge.*
 
 Personal Assets for persons:
   The Masked Hat              : Tor Andersson
@@ -10,3 +13,4 @@ Personal Assets for persons:
   Harrelama                   : Tor Andersson / Simon Kalmi Claesson
 
 Any other assets is made by   : Simon Kalmi Claesson
+Base pack is made by          : Simon Kalmi Claesson
