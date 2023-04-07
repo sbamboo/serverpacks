@@ -1,32 +1,40 @@
 ! THIS PACK IS FOR PRIVATE/PERSONAL USE ONLY !
 
-**Information for: The Axolot 77's Serverpack 3.0**
+**Information for: The Axolot 77's Serverpack 3.1**
 
 Author                        : Simon Kalmi Claesson
 
-Merged Resorcepacks:
+Merged Resorcepacks (Not 100% of each pack is included):
   ShieldCorrections+[Colored] : https://www.curseforge.com/minecraft/texture-packs/shieldcorrections
   Hats++1.1                   : https://www.curseforge.com/minecraft/texture-packs/hats-plus
+  Hoshi's Hat Pack            : https://www.planetminecraft.com/texture-pack/hoshi-s-hat-pack/
+  Jester Hat Cosmetics        : https://www.planetminecraft.com/texture-pack/jester-hat-cosmetics/
+  Steampunk Goggles           : https://www.planetminecraft.com/texture-pack/steampunk-goggles-custom-3d-cosmetic-texture-pack/
+  Villager Hats               : https://www.planetminecraft.com/texture-pack/villager-hats-5174068/
   *The authors of the merged packs remains in full ownership of their packs/assets and remains with the right to contact me to remove the pack from the merge.*
 
 Contributions:
   The Masked Hat              : Tor Andersson
   The Pearlecent Blade        : Simon Kalmi Claesson
   Harrelama                   : Tor Andersson / Simon Kalmi Claesson
-  Axelot    (And assets)      : Tor Andersson
-  Chamelont (And assets)      : Tor Andersson
-  Chipmunk  (And assets)      : Tor Andersson
+  Axelot      (And assets)    : Tor Andersson
+  Chamelont   (And assets)    : Tor Andersson
+  Chipmunk    (And assets)    : Tor Andersson
+  bird        (And assets)    : Tor Andersson
+  bird_flying (And assets)    : Tor Andersson
 
 Any other assets is made by   : Simon Kalmi Claesson
 Base pack is made by          : Simon Kalmi Claesson
 
 
-**Hat names**
+**Hat names** (Rename carved pumpkin to the text inside quotes)
   Custom:
       harrelama           : "HarreLLama"
       axelot              : "Axolot77"
       chamelont           : "Chamelont"
       chipmunk            : "chipmunkZ00Z"
+      bird                : "Bird Gang"
+      bird_flying         : "Bird flying"
   Hats++:
       allay               : "allay"
       arrow               : "arrow"
@@ -62,6 +70,26 @@ Base pack is made by          : Simon Kalmi Claesson
       crown               : "3D crown"            (OGNAME: "crown")
       headphones          : "headphones"          (OGNAME: "headphones1")
       villager_nose       : "villager nose"       (OGNAME: "villager Nose")
+  Hoshi's:
+      ghost_buddy         : "ghost shoulder buddy"
+      ducky_hat           : "ducky hat"
+      unicorn_hat         : "unicorn hat"
+      little_devil        : "little devil"
+  JesterHats:
+      jaster_hat_black    : "Black Jaster Hat"
+      jaster_hat_yellow   : "Yellow Jaster Hat"
+      jester_hat_pink     : "Pink Jester Hat"
+  SteampunkGoggles:
+      steampunk_goggles   : "Steampunk Goggles"
+  VillagerHats (renamed):
+      armorer             : "armorer"     (OGNAME: "goggles")
+      butcher             : "butcher"     (OGNAME: "headband")
+      farmer              : "farmer"      (OGNAME: "farmer_hat")
+      fisherman           : "fisherman"   (OGNAME: "fisherman_hat")
+      fletcher            : "fletcher"    (OGNAME: "fletcher_hat")
+      librarian           : "librarian"   (OGNAME: "book")
+      shepherd            : "shepherd"    (OGNAME: "shepherd_hat")
+      weaponsmith         : "weaponsmith" (OGNAME: "eyepatch")
 
 **Merged data**
 ShieldCorrections:
@@ -77,8 +105,20 @@ Hats++:
   /assets/minecraft/optifine/emissive.properties
   /assets/minecraft/optifine/cit/hats_plus_plus/*
   
+Hoshi's:
+  /assets/minecraft/optifine/cit/hoshis/*
+  
+JesterHats:
+  /assets/minecraft/optifine/cit/jesterhats/*
+  
+SteampunkGoogles:
+  /assets/minecraft/optifine/cit/steampunk_goggles/*
+  
+VillagerHats:
+  /assets/minecraft/optifine/cit/villagerhats/*
+  
 **HASHES**
-  3.0.zip : EC0DC5B4DCFB9B57AF7E500AE2A84D6850A732CC
+  3.1.zip : 
   
 **License**
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
