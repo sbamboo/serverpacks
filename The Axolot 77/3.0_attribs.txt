@@ -1,3 +1,5 @@
+**Attribution Information for: The Axolot 77's Serverpack 3.0**
+
 Merged Resorcepacks:
   ShieldCorrections+[Colored] : https://www.curseforge.com/minecraft/texture-packs/shieldcorrections
   Hats++1.1                   : https://www.curseforge.com/minecraft/texture-packs/hats-plus
