@@ -1,0 +1,10 @@
+Merged Resorcepacks:
+  ShieldCorrections+[Colored] : https://www.curseforge.com/minecraft/texture-packs/shieldcorrections
+  Hats++1.1                   : https://www.curseforge.com/minecraft/texture-packs/hats-plus
+
+Personal Assets for persons:
+  The Masked Hat              : Tor Andersson
+  The Pearlecent Blade        : Simon Kalmi Claesson
+  Harrelama                   : Tor Andersson / Simon Kalmi Claesson
+
+Any other assets is made by   : Simon Kalmi Claesson
