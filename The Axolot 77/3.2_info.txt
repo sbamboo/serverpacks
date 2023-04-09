@@ -166,7 +166,7 @@ Mining Helmet:
     + Added some custom music discs *See notes
 
 **HASHES**
-  3.2.zip : 
+  3.2.zip : 7D70CF12A5C08621648F036093BBE9AE07C11950
   
 **License**
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
