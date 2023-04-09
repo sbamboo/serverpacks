@@ -1,0 +1,178 @@
+! THIS PACK IS FOR PRIVATE/PERSONAL USE ONLY !
+
+**Information for: The Axolot 77's Serverpack 3.2*
+
+Author                        : Simon Kalmi Claesson
+
+Merged Resorcepacks (Not 100% of each pack is included):
+  ShieldCorrections+[Colored] : https://www.curseforge.com/minecraft/texture-packs/shieldcorrections
+  Hats++1.1                   : https://www.curseforge.com/minecraft/texture-packs/hats-plus
+  Hoshi's Hat Pack            : https://www.planetminecraft.com/texture-pack/hoshi-s-hat-pack/
+  Jester Hat Cosmetics        : https://www.planetminecraft.com/texture-pack/jester-hat-cosmetics/
+  Steampunk Goggles           : https://www.planetminecraft.com/texture-pack/steampunk-goggles-custom-3d-cosmetic-texture-pack/
+  Villager Hats               : https://www.planetminecraft.com/texture-pack/villager-hats-5174068/
+  Flower crowns               : https://www.curseforge.com/minecraft/texture-packs/flower-crowns
+  Mining Helmet               : https://www.curseforge.com/minecraft/texture-packs/mining-helmet
+  *The authors of the merged packs remains in full ownership of their packs/assets and remains with the right to contact me to remove the pack from the merge.*
+
+Contributions:
+  The Masked Hat              : Tor Andersson
+  The Pearlecent Blade        : Simon Kalmi Claesson
+  Harrelama                   : Tor Andersson / Simon Kalmi Claesson
+  Axelot      (And assets)    : Tor Andersson
+  Chamelont   (And assets)    : Tor Andersson
+  Chipmunk    (And assets)    : Tor Andersson
+  bird        (And assets)    : Tor Andersson
+  bird_flying (And assets)    : Tor Andersson
+  Music discs                 : * See notes
+
+Any other assets is made by   : Simon Kalmi Claesson
+Base pack is made by          : Simon Kalmi Claesson
+
+**Note!**
+  FlowerCrowns:
+    The textures for the flower crowns are from the resource pack linked above, i have modified the texture to work with another model on a CarvedPumpkin instead.
+    The properties/models are not from flowercrowns and propertie of Simon Kalmi Claesson. Names and original textures are from flowercrowns.
+  MusicDiscs:
+    MusicDiscs included is:
+      CaveAmbient - Minecraft
+      NomNomNom   - Minecraft
+      Shhhhhhh    - Minecraft
+      Thirsty     - Minecraft
+      Harrelama   - Harald Wikstrand
+      Dadadadada  - Tor Andersson & Simon Kalmi Claesson
+    Al music Disks are property of their author
+
+**Hat names** (Rename carved pumpkin to the text inside quotes)
+  Custom:
+      harrelama           : "HarreLLama"
+      axelot              : "Axolot77"
+      chamelont           : "Chamelont"
+      chipmunk            : "chipmunkZ00Z"
+      bird                : "Bird Gang"
+      bird_flying         : "Bird Flying"
+  Hats++:
+      allay               : "allay"
+      arrow               : "arrow"
+      axolotl_head        : "axolotl head"
+      bucket              : "bucket head"
+      cool_glasses        : "cool glasses"
+      copper_golem        : "copper golem"
+      floating_crown      : "floating crown"
+      flower              : "flower"
+      flower_crown        : "flower crown"
+      fox                 : "fox"
+      glow_squid          : "glow squid"
+      halo                : "halo"
+      hd_eyes             : "hd eyes"
+      hedgehog            : "hedgehog"
+      lightbulb           : "lightbulb"
+      little_creeper      : "little creeper"
+      little_enderman     : "little enderman"
+      little_zombie       : "little zombie"
+      minecart            : "minecart"
+      moon                : "moon"
+      moon_orbit          : "moon orbit"
+      mushroom            : "mushroom man"
+      on_fire             : "on fire"
+      pickaxe             : "pickaxe"
+      sun                 : "sun"
+      sus                 : "sus"
+      traffic_cone        : "traffic cone"
+      water_spill         : "water spill"
+      wolf                : "wolf"
+  Hats++ (renamed):
+      celestial_witch_hat : "celestial witch hat" (OGNAME: "Celestial Witch Hat")
+      crown               : "3D crown"            (OGNAME: "crown")
+      headphones          : "headphones"          (OGNAME: "headphones1")
+      villager_nose       : "villager nose"       (OGNAME: "villager Nose")
+  Hoshi's:
+      ghost_buddy         : "ghost shoulder buddy"
+      ducky_hat           : "ducky hat"
+      unicorn_hat         : "unicorn hat"
+      little_devil        : "little devil"
+  JesterHats (renamed some):
+      jester_hat_black    : "Black Jester Hat"  (OGNAME: "Black Jaster Hat")
+      jester_hat_yellow   : "Yellow Jester Hat" (OGNAME: "Yellow Jaster Hat")
+      jester_hat_pink     : "Pink Jester Hat"   (OGNAME: "Pink Jester Hat")
+  SteampunkGoggles:
+      steampunk_goggles   : "Steampunk Goggles"
+  VillagerHats (renamed):
+      armorer             : "armorer"     (OGNAME: "goggles")
+      butcher             : "butcher"     (OGNAME: "headband")
+      farmer              : "farmer"      (OGNAME: "farmer_hat")
+      fisherman           : "fisherman"   (OGNAME: "fisherman_hat")
+      fletcher            : "fletcher"    (OGNAME: "fletcher_hat")
+      librarian           : "librarian"   (OGNAME: "book")
+      shepherd            : "shepherd"    (OGNAME: "shepherd_hat")
+      weaponsmith         : "weaponsmith" (OGNAME: "eyepatch")
+   FlowerCrowns:
+      cornflower_crown    : "Cornflower Crown"
+      blue_orchid_crown   : "Blue Orchid Crown"
+      allium_crown        : "Allium Crown"
+      pink_tulip_crown    : "Pink Tulip Crown"
+      white_tulip_crown   : "White Tulip Crown"
+      lily_of_the_valley..: "Lily of the Valley Crown"
+      oxeye_daisy_crown   : "Oxeye Daisy Crown"
+      dandelion_crown     : "Dandelion Crown"
+      orange_tulip_crown  : "Orange Tulip Crown"
+      red_tulip_crown     : "Red Tulip Crown"
+      poppy_crown         : "Poppy Crown"
+      wither_rose_crown   : "Wither Rose Crown"
+      rose_bush_crown     : "Rose Bush Crown"
+      lilac_crown         : "Lilac Crown"
+      peony_crown         : "Peony Crown"
+      sunflower_crown     : "Sunflower Crown"
+ Armor hats: (Rename helmet to name)
+   Mining Helmet:
+      mining_helmet       : "Mining Helmet" (Helmet: Leather)
+
+**Merged data**
+ShieldCorrections:
+  /textures/*
+  /assets/minecraft/textures/entity/shield/*
+  /assets/minecraft/textures/entity/shield_base/*
+  /assets/minecraft/textures/entity/shield_base.png
+  /assets/minecraft/models/item/shield.json
+  /assets/minecraft/models/item/shield_blocking.json
+
+Hats++:
+  /assets/minecraft/textures/misc/pumpkinblur.png
+  /assets/minecraft/optifine/emissive.properties
+  /assets/minecraft/optifine/cit/hats_plus_plus/*
+  
+Hoshi's:
+  /assets/minecraft/optifine/cit/hoshis/*
+  
+JesterHats:
+  /assets/minecraft/optifine/cit/jesterhats/*
+  
+SteampunkGoogles:
+  /assets/minecraft/optifine/cit/steampunk_goggles/*
+  
+VillagerHats:
+  /assets/minecraft/optifine/cit/villagerhats/*
+  
+FlowerCrowns:
+  /assets/minecraft/optifine/cit/flower_crowns/*
+  
+Mining Helmet:
+  /assets/minecraft/optifine/cit/mining_helmet/*
+
+**Changelog**
+  3.2:
+    + Added Flowercrowns
+    + Added Mining Helmet
+    + Added some custom music discs *See notes
+
+**HASHES**
+  3.2.zip : 
+  
+**License**
+This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
+
+The pack does contain both personal assets and other merged resource packs (see above) but I have noted paths for merged assets and as stated above any author of a merged pack may request me to remove the merged pack. It if would not want to I can't have a merged pack including said authors assets uploaded as this pack. Note! this only covers this pack upload that his information is tied to. To request anywhere just contact me regardless and I will do.
+
+For anyone not on the server, me or someone who has gotten personal permission from me. You may use the pack BUT YOU MUST link to this information and correctly attribute/Credit the authors of al assets. It you only want the merged packs links are present above.
+
+Note! The assets are provided AS IS and the author has no resposebility for problems occuring for the user and is not alegible for claims and likwise. USE AT YOUR OWN RISK!
