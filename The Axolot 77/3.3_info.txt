@@ -171,7 +171,7 @@ Twemojis:
     + Merged in TruMiner's amazing emoji pack to allow the render of emojis on my server, big thanks!
 
 =================================================[ HASHES ] =================================================
-  3.3.zip : 60FE2EEC2271D9CE4ADADC944DED1D44B66A979F4C744C4BF88D8B3C3B9F79D9
+  3.3.zip : F885B4B7384B87BA2DEEB77E3F11D5EB314C928A
   
 =================================================[ License ]=================================================
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
