@@ -178,7 +178,7 @@ MoreArmorTrimMaterials:
     + Merged in LennyTheSniper's More Armor Trim Materials [Glowing Version] resourcepack to be compatible with his datapack on the server.
 
 =================================================[ HASHES ] =================================================
-  3.4.zip : 0936588994CFF25C2504C3C5BF625E3AB018F866 (sha1)
+  3.4.zip : 0CB122C0E831FE318ECEEBD83EAD653AB226F7CF (sha1)
   
 =================================================[ License ]=================================================
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
