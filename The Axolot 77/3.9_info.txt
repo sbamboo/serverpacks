@@ -177,7 +177,7 @@ MoreArmorTrimMaterials:
     + Added some more playerdolls.
 
 =================================================[ HASHES ] =================================================
-  3.9.zip : D47A40669B211D19DB2CE255E806BA5A20C0B9E1 (sha1)
+  3.9.zip : E35D12C2B8EADF15A2A0AB51C5B80753658E5D8F (sha1)
   
 =================================================[ License ]=================================================
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
