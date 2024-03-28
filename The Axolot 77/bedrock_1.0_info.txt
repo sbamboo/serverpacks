@@ -1,0 +1,60 @@
+! THIS PACK IS FOR PRIVATE/PERSONAL USE ONLY !
+
+=============================================[ Information for: The Axolot 77's Bedrock Serverpack 1.0 ]=============================================
+
+Author                        : Simon Kalmi Claesson
+
+Merged Resorcepacks (Not 100% of each pack is included):
+  ShieldCorrections+[Colored] : https://modrinth.com/resourcepack/shield-corrections/versions
+  GeyserOptionalPack          : https://geysermc.org/download#other-geyseroptionalpack
+  *The authors of the merged packs remains in full ownership of their packs/assets and remains with the right to contact me to remove the pack from the merge.*
+
+Contributions:
+  ...
+
+Any other assets is made by   : Simon Kalmi Claesson
+Base pack is made by          : Simon Kalmi Claesson
+
+=================================================[ Note! ]=================================================
+  ...
+
+=================================================[ Merged data ]=================================================
+ShieldCorrections:
+  /animations/shield.animation.json
+  /attachables/shield.entity.json
+  /textures/entity/*
+  /subpacks/*
+
+GeyserOptionalPack:
+  /mojang.md (MODIFIED)
+  /textures/geyser
+  /attachables/*.armor_stand.json
+  /animations/armor_stand.animation.json
+  /animations/panda.animation.json
+  /animations/humanoid.animation.json
+  /animations/player.animation.json
+  /animations/spyglass.animation.json
+  /geyserOptionalPack_LICENSE (FILENAME HAS BEEN CHANGED)
+  /geyserOptionalPack_README.md (FILENAME HAS BEEN CHANGED)
+  /animation_controllers/*
+  /entity/*
+  /models/*
+  /particles/*
+  /render_controllers/*
+  /ui/*
+
+=================================================[ Changelog ]=================================================
+  1.0:
+    + Bundled in the bundled resourcepacks.
+
+=================================================[ HASHES ] =================================================
+  bedrock_1.0.zip : B06CEF81C639D6951A472FD3E3B88583274A633F (sha1)
+  
+=================================================[ License ]=================================================
+This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
+
+The pack does contain both personal assets and other merged resource packs (see above) but I have noted paths for merged assets and as stated above any author of a merged pack may request me to remove the merged pack. It if would not want to I can't have a merged pack including said authors assets uploaded as this pack. Note! this only covers this pack upload that his information is tied to. To request anywhere just contact me regardless and I will do.
+
+For anyone not on the server, me or someone who has gotten personal permission from me. You may use the pack BUT YOU MUST link to this information and correctly attribute/Credit the authors of al assets. It you only want the merged packs links are present above.
+
+Note! The assets are provided AS IS and the author has no resposebility for problems occuring for the user and is not alegible for claims and likwise. USE AT YOUR OWN RISK!

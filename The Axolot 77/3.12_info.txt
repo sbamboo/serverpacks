@@ -1,0 +1,233 @@
+! THIS PACK IS FOR PRIVATE/PERSONAL USE ONLY !
+
+=================================================[ Information for: The Axolot 77's Serverpack 3.12 ]=================================================
+
+Author                        : Simon Kalmi Claesson
+
+Merged Resorcepacks (Not 100% of each pack is included):
+  Name:                       | Version:      | Url:
+ ─────────────────────┼───────────┼───────────────────────────────────────────...
+  ShieldCorrections+[Colored] | 1.5           | https://modrinth.com/resourcepack/shield-corrections/
+  Hats++                      | 1.1           | https://www.curseforge.com/minecraft/texture-packs/hats-plus
+  Hoshi's Hat Pack            | 1.0.6 19/3/23 | https://www.planetminecraft.com/texture-pack/hoshi-s-hat-pack/
+  Jester Hat Cosmetics        | ???   16/3/23 | https://www.planetminecraft.com/texture-pack/jester-hat-cosmetics/
+  Steampunk Goggles           | ???   13/3/23 | https://www.planetminecraft.com/texture-pack/steampunk-goggles-custom-3d-cosmetic-texture-pack/
+  Villager Hats               | ???   18/5/21 | https://www.planetminecraft.com/texture-pack/villager-hats-5174068/
+  Flower crowns               | 1.20.3-1.20.4 | https://www.curseforge.com/minecraft/texture-packs/flower-crowns
+  Mining Helmet               | ???    3/7/18 | https://www.curseforge.com/minecraft/texture-packs/mining-helmet
+  Twemojis in Minecraft       | 1.4           | https://modrinth.com/resourcepack/twemojis-in-minecraft/version/1.2.1
+  More Armor Trim Materials   | Glow  10/10/23| https://www.planetminecraft.com/data-pack/more-armor-trim-materials/
+  Easter Eggs- Java Port      | ???   6/5/21  | https://www.planetminecraft.com/texture-pack/easter-eggs-java-port/
+  *The authors of the merged packs remains in full ownership of their packs/assets and remains with the right to contact me to remove the pack from the merge.*
+
+Contributions:
+  The Masked Hat              : Tor Andersson
+  The Pearlecent Blade        : Simon Kalmi Claesson
+  Harrelama                   : Tor Andersson / Simon Kalmi Claesson
+  Axelot      (And assets)    : Tor Andersson
+  Chamelont   (And assets)    : Tor Andersson
+  Chipmunk    (And assets)    : Tor Andersson
+  bird        (And assets)    : Tor Andersson
+  bird_flying (And assets)    : Tor Andersson
+  Music discs                 : * See notes
+  PlayerDolls                : * See notes
+
+Any other assets is made by   : Simon Kalmi Claesson
+Base pack is made by          : Simon Kalmi Claesson
+
+=================================================[ Note! ]=================================================
+  FlowerCrowns:
+    The textures for the flower crowns are from the resource pack linked above, i have modified the texture to work with another model on a CarvedPumpkin instead.
+    The properties/models are not from flowercrowns and property of Simon Kalmi Claesson. Names and original textures are from flowercrowns.
+  MusicDiscs:
+    MusicDiscs icons are made by: Simon Kalmi Claesson
+    This version of the pack only includes textures and not sound files.
+    Files found at: /assets/minecraft/optifine/cit/customdisc_icons/*
+  PlayerDolls:
+    The model aswell as the resourcepack is made by Simon Kalmi Claesson.
+    The base_skin texture is from https://www.curseforge.com/minecraft/texture-packs/template-cem and thus property of Ewan Howell.
+    The rest of the skins are taken from namemc and property of respective player/skin-creator.
+  FlowerArmor:
+    The armor-textures for the flower armor are merged from the flowercrown texture (from resource pack linked above) and the vanilla armor-textures. (So the merged texture is property of mine but is a modification of the original)
+    The item-textures are made by my, either as a merge from vanilla textures or with my own thus they are property or Simon Kalmi Claesson.
+    The properties are not from flowercrowns and property of Simon Kalmi Claesson.
+  EasterEggsJavaPort:
+    Readme-from-original-pack: This pack is a java port of Bedrock Live's Easter Eggs Pack.
+  CustomEasterEggs:
+    Textures and models are made by and property of Simon Kalmi Claesson.
+=================================================[ Hat Names ]=================================================
+
+**Hat names** (Rename carved pumpkin to the text inside quotes)
+    Custom:
+1       harrelama            : "HarreLLama"
+2       axelot               : "Axolot77"
+3       chamelont            : "Chamelont"
+4       chipmunk             : "chipmunkZ00Z"
+5       bird                 : "Bird Gang"
+6       bird_flying          : "Bird Flying"
+    Hats++:
+7       allay                : "allay"
+8       arrow                : "arrow"
+9       axolotl_head         : "axolotl head"
+10      bucket               : "bucket head"
+11      cool_glasses         : "cool glasses"
+12      copper_golem         : "copper golem"
+13      floating_crown       : "floating crown"
+14      flower               : "flower"
+15      flower_crown         : "flower crown"
+16      fox                  : "fox"
+17      glow_squid           : "glow squid"
+18      halo                 : "halo"
+20      hd_eyes              : "hd eyes"
+21      hedgehog             : "hedgehog"
+22      lightbulb            : "lightbulb"
+23      little_creeper       : "little creeper"
+24      little_enderman      : "little enderman"
+25      little_zombie        : "little zombie"
+26      minecart             : "minecart"
+27      moon                 : "moon"
+28      moon_orbit           : "moon orbit"
+29      mushroom             : "mushroom man"
+30      on_fire              : "on fire"
+31      pickaxe              : "pickaxe"
+32      sun                  : "sun"
+33      sus                  : "sus"
+34      traffic_cone         : "traffic cone"
+35      water_spill          : "water spill"
+36      wolf                 : "wolf"
+    Hats++ (renamed):
+37      celestial_witch_hat  : "celestial witch hat" (OGNAME: "Celestial Witch Hat")
+38      crown                : "3D crown"            (OGNAME: "crown")
+39      headphones           : "headphones"          (OGNAME: "headphones1")
+40      villager_nose        : "villager nose"       (OGNAME: "villager Nose")
+    Hoshi's:
+41      allay_hat            : "allay hat"
+42      artistic_beret       : "artistic beret"
+43      axolotl_hat          : "axolotl hat"
+44      bee_hat              : "bee hat"
+45      blue_scarf           : "blue scarf"           (OGNAME_FILENAME: "scarf_type_2")
+46      bread_o_warrior      : "bread o' warrior"
+47      bunny_beret          : "bunny beret"
+48      ducky_hat            : "ducky hat"
+49      elf_ears_dark_long   : "elf ears - dark long"
+50      elf_ears_dark_short  : "elf ears - dark short"
+49      elf_ears_light_long  : "elf ears - light long"
+50      elf_ears_light_short : "elf ears - light short"
+51      froggy_hat           : "froggy hat"
+52      ghost_buddy          : "ghost shoulder buddy"
+53      little_devil         : "little devil"
+54      magma_witch_hat      : "magma witch hat"
+55      nature_witch_hat     : "nature_witch_hat"
+56      panda_hat            : "panda hat"
+57      party_hat            : "party hat"
+58      present_hat          : "present hat"
+59      red_scarf            : "red scarf"           (OGNAME_FILENAME: "scarf_type_1")
+60      santa_hat            : "santa hat"
+61      ushanka_brown        : "ushanka"             (OGNAME: "Brown Ushanka")
+62      water_witch_hat      : "water witch hat"
+63      unicorn_hat          : "unicorn hat"
+    JesterHats (renamed some):
+64      jester_hat_black     : "Black Jester Hat"  (OGNAME: "Black Jaster Hat")
+65      jester_hat_yellow    : "Yellow Jester Hat" (OGNAME: "Yellow Jaster Hat")
+66      jester_hat_pink      : "Pink Jester Hat"   (OGNAME: "Pink Jester Hat")
+    SteampunkGoggles:
+67      steampunk_goggles    : "Steampunk Goggles"
+    VillagerHats (renamed):
+68      armorer              : "armorer"     (OGNAME: "goggles")
+69      butcher              : "butcher"     (OGNAME: "headband")
+70      farmer               : "farmer"      (OGNAME: "farmer_hat")
+71      fisherman            : "fisherman"   (OGNAME: "fisherman_hat")
+72      fletcher             : "fletcher"    (OGNAME: "fletcher_hat")
+73      librarian            : "librarian"   (OGNAME: "book")
+74      shepherd             : "shepherd"    (OGNAME: "shepherd_hat")
+75      weaponsmith          : "weaponsmith" (OGNAME: "eyepatch")
+     FlowerCrowns:
+76      cornflower_crown     : "Cornflower Crown"
+77      blue_orchid_crown    : "Blue Orchid Crown"
+78      allium_crown         : "Allium Crown"
+79      pink_tulip_crown     : "Pink Tulip Crown"
+80      white_tulip_crown    : "White Tulip Crown"
+81      lily_of_the_valley...: "Lily of the Valley Crown"
+82      oxeye_daisy_crown    : "Oxeye Daisy Crown"
+83      dandelion_crown      : "Dandelion Crown"
+84      orange_tulip_crown   : "Orange Tulip Crown"
+85      red_tulip_crown      : "Red Tulip Crown"
+86      poppy_crown          : "Poppy Crown"
+87      wither_rose_crown    : "Wither Rose Crown"
+88      rose_bush_crown      : "Rose Bush Crown"
+89      lilac_crown          : "Lilac Crown"
+90      peony_crown          : "Peony Crown"
+91      sunflower_crown      : "Sunflower Crown"
+92      azalea_crown         : "Azalea Crown"
+93      buttercup_crown      : "Buttercup Crown"
+94      pink_daisy_crown     : "Pink Daisy Crown"
+
+
+**Armor hats** (Rename helmet to name)
+     Mining Helmet:
+95      mining_helmet        : "Mining Helmet" (Helmet: Leather)
+     ArmorCrowns:
+-   Al armor crowns are named as "<flower> <helmet>" so for example for a netherite helmet with lilac crown: "Lilac Netherite Helmet"
+
+**Eggs** (Rename egg to name)
+-   I modified the names for the eggs from EasterEggsJavaPort to be "<color> <type> Egg" with type being either "","Striped","Ornate","Decorated" for for a red ornate egg: "Red Ornate Egg"
+=================================================[ Merged data ]=================================================
+ShieldCorrections:
+  /assets/minecraft/textures/entity/shield/*
+  /assets/minecraft/textures/entity/shield_base/*
+  /assets/minecraft/textures/entity/shield_base.png
+  /assets/minecraft/models/item/shield.json
+  /assets/minecraft/models/item/shield_blocking.json
+
+Hats++:
+  /assets/minecraft/textures/misc/pumpkinblur.png
+  /assets/minecraft/optifine/emissive.properties
+  /assets/minecraft/optifine/cit/hats_plus_plus/*
+  
+Hoshi's:
+  /assets/minecraft/optifine/cit/hoshis/*
+  
+JesterHats:
+  /assets/minecraft/optifine/cit/jesterhats/*
+  
+SteampunkGoogles:
+  /assets/minecraft/optifine/cit/steampunk_goggles/*
+  
+VillagerHats:
+  /assets/minecraft/optifine/cit/villagerhats/*
+  
+FlowerCrowns:
+  /assets/minecraft/optifine/cit/flower_crowns/*
+  
+Mining Helmet:
+  /assets/minecraft/optifine/cit/mining_helmet/*
+ 
+Twemojis:
+  /assets/minecraft/font/default.json
+  /assets/minecraft/textures/font/*
+
+MoreArmorTrimMaterials:
+  /assets/lenny/*
+  /assets/minecraft/atlases/*
+  /assets/minecraft/models/item/* !Excluding shield.json, shield_blocking.json, carved_pumpkin.json ^^!
+  /assets/minecraft/shaders/*
+
+EasterEggsJavaPort:
+  /assets/minecraft/optifine/cit/easter_eggs/*
+
+=================================================[ Changelog ]=================================================
+  3.12:
+    + Updated some bundled resourcepacks.
+    - Removed Bedrock-support infavor for bedrock-specific resourcepack, might return who knows.
+
+=================================================[ HASHES ] =================================================
+  3.12.zip : CC40360CDF75AFE2E51117A5F778B0C9DF12727F (sha1)
+  
+=================================================[ License ]=================================================
+This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
+
+The pack does contain both personal assets and other merged resource packs (see above) but I have noted paths for merged assets and as stated above any author of a merged pack may request me to remove the merged pack. It if would not want to I can't have a merged pack including said authors assets uploaded as this pack. Note! this only covers this pack upload that his information is tied to. To request anywhere just contact me regardless and I will do.
+
+For anyone not on the server, me or someone who has gotten personal permission from me. You may use the pack BUT YOU MUST link to this information and correctly attribute/Credit the authors of al assets. It you only want the merged packs links are present above.
+
+Note! The assets are provided AS IS and the author has no resposebility for problems occuring for the user and is not alegible for claims and likwise. USE AT YOUR OWN RISK!
