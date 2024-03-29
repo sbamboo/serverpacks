@@ -209,7 +209,7 @@ Twemojis:
 MoreArmorTrimMaterials:
   /assets/lenny/*
   /assets/minecraft/atlases/*
-  /assets/minecraft/models/item/* !Excluding shield.json, shield_blocking.json, carved_pumpkin.json ^^!
+  /assets/minecraft/models/item/* !Excluding shield.json, shield_blocking.json, carved_pumpkin.json, bundle.json, armor_stand.json ^^!
   /assets/minecraft/shaders/*
 
 EasterEggsJavaPort:
