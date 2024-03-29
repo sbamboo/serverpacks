@@ -48,7 +48,7 @@ GeyserOptionalPack:
     + Bundled in the bundled resourcepacks.
 
 =================================================[ HASHES ] =================================================
-  bedrock_1.0.zip : 1A9A7D7B3F93955F60C5733CB0481FE2B4204EAC (sha1)
+  bedrock_1.0.zip : 32D63DF042F0DAA01A28EB767A908BC9D49AFF07 (sha1)
   
 =================================================[ License ]=================================================
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.

@@ -221,7 +221,7 @@ EasterEggsJavaPort:
     - Removed Bedrock-support infavor for bedrock-specific resourcepack, might return who knows.
 
 =================================================[ HASHES ] =================================================
-  3.12.zip : 5F91444F8F095CE090288B21042543D260BC05A0 (sha1)
+  3.12.zip : EAF19B1CE71B2D606E074B3FAFB286618B5593E9 (sha1)
   
 =================================================[ License ]=================================================
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
