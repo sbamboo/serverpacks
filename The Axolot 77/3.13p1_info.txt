@@ -16,7 +16,7 @@ Merged Resorcepacks (Not 100% of each pack is included):
   Flower crowns               | 1.20.3-1.20.4 | https://www.curseforge.com/minecraft/texture-packs/flower-crowns
   Mining Helmet               | ???    3/7/18 | https://www.curseforge.com/minecraft/texture-packs/mining-helmet
   Twemojis in Minecraft       | 1.4           | https://modrinth.com/resourcepack/twemoji-visibility/version/1.4
-  More Armor Trim Materials   | Glow  27/06/24| https://www.planetminecraft.com/data-pack/more-armor-trim-materials/
+  More Armor Trim Materials   | Glow  28/06/24| https://www.planetminecraft.com/data-pack/more-armor-trim-materials/
   Easter Eggs- Java Port      | ???   6/5/21  | https://www.planetminecraft.com/texture-pack/easter-eggs-java-port/
   *The authors of the merged packs remains in full ownership of their packs/assets and remains with the right to contact me to remove the pack from the merge.*
 
@@ -229,7 +229,7 @@ EasterEggsJavaPort:
     - Removed Bedrock-support infavor for bedrock-specific resourcepack, might return who knows.
 
 =================================================[ HASHES ] =================================================
-  3.12p1.zip : CCBBF9EB6E09D35D90682DE3CACA81B69D7FBFEB (sha1)
+  3.12p1.zip : F04FE36819F1D144967512B3C7163EEF561A2C8C (sha1)
   
 =================================================[ License ]=================================================
 This pack is produced and ment for a personal minecraft server and is not meant to be used/shared by others. The need to upload to github comes in sharability for server memebers, server linking to download of pack aswell of course as information hosting regarding the pack.
@@ -238,4 +238,4 @@ The pack does contain both personal assets and other merged resource packs (see 
 
 For anyone not on the server, me or someone who has gotten personal permission from me. You may use the pack BUT YOU MUST link to this information and correctly attribute/Credit the authors of al assets. It you only want the merged packs links are present above.
 
-Note! The assets are provided AS IS and the author has no resposebility for problems occuring for the user and is not alegible for claims and likwise. USE AT YOUR OWN RISK!
+Note! The assets are provided AS IS and the author has no resposebility for problems occuring for the user and is not alegible for claims and likewise. USE AT YOUR OWN RISK!
