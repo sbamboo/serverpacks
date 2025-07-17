@@ -1,0 +1,198 @@
+! THIS PACK IS FOR PRIVATE/PERSONAL USE ONLY !
+
+==============================================[ Information for: The Axolot 77's Serverpack 4.0 alpha2 ]==============================================
+Author  : Simon Kalmi Claesson
+
+This resourcepack includes assets/content from other resourcepacks, some are included in full and some only have selected parts included.
+The authors of the merged packs remains in full ownership of their packs/assets and remains with the right to contact me to remove the pack from the merge.
+
+Any assets not included from a merge-in or contribution is made by the author and the author remains in ownership.
+
+This resourcepack is created using my indev resourcepack generator, thus the final resourcepack is generated from the assets and a project config.
+Source assets for this resourcepack is avaliable at the same place the resourcepack was generated from.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Included Resourcepacks: (Paths are in the source assets)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Vanilla Tweaks - HD Shield Banner Patterns [04/2025 1.21.5]
+  https://vanillatweaks.net/picker/resource-packs/
+  Dirs:
+    /overlays/third_party/hd_shields
+  (I have manually modified this resourcepack to update it to 1.21.7, mostly Changes to the shaders)
+
+Twemoji Visibility [1.7]
+  https://modrinth.com/resourcepack/twemoji-visibility
+  Dirs:
+    /overlays/third_party/twemoji
+
+Mining Helmet [3/7/2018]
+  https://www.curseforge.com/minecraft/texture-packs/mining-helmet
+  Dirs:
+    /overlays/third_party/mining_helmet
+
+Hats++ [1.1] (Only Selected Hats)
+  https://www.curseforge.com/minecraft/texture-packs/hats-plus
+  Dirs:
+    /assets/third_party/hats/hats_plus_plus
+    /overlays/third_party/hats/hats_plus_plus
+  Hats:
+    Axolotl Head
+    Flower Crown
+    Mushroom Man
+    Hedgehog
+    Sus
+    Cool Glasses
+    Fox
+    Halo
+    Floating CrownWolf
+    Water Spill
+    LightBulb
+    Arrow
+    HD Eyes
+    On Fire
+    Villager Nose
+    Celestial witch Hat
+    Little Enderman
+    Glow Squid
+    Pickaxe
+    Bucket Head
+    Traffic Cone
+    Allay
+    Little Creeper
+    Minecart
+
+Hoshi's Hat Pack [1.1] (Only Selected Hats)
+  https://www.planetminecraft.com/texture-pack/hoshi-s-hat-pack/
+  Dirs:
+    /assets/third_party/hats/hoshis
+    /overlays/third_party/hats/hoshis
+  Hats:
+    Ducky Bucket Hat
+    Little Devil
+    Allay Bucket Hat
+    Bee Bucket Hat
+    Axolotl Bucket Hat
+    Bread O' Warrior
+    Bunny Beret
+    Elf Ears Short
+    Elf Ears Long
+    Froggy Bucket Hat
+    Ghost Shoulder Buddy
+    Magma Witch Hat
+    Nature Witch Hat
+    Panda Bucket Hat
+    Party Hat
+    Present Hat
+    Santa Hat
+    Water Witch Hat
+    Unicorn Hat
+
+Villager Hats [18/5/2021] (Only Selected Hats)
+  https://www.planetminecraft.com/texture-pack/villager-hats-5174068/
+  Dirs:
+    /assets/third_party/hats/villager_hats
+  Hats:
+    Farmer
+
+Jester Hat Cosmetics [16/3/2023] (Only Selected Hats)
+  https://www.planetminecraft.com/texture-pack/jester-hat-cosmetics/
+  Dirs:
+    /assets/third_party/hats/jesterhats
+
+Steampunk Goggles [13/3/23]
+  https://www.planetminecraft.com/texture-pack/steampunk-goggles-custom-3d-cosmetic-texture-pack/
+  Dirs:
+    /assets/third_party/steampunk_goggles
+
+Easter Eggs Java Port [6/5/21]
+  https://www.planetminecraft.com/texture-pack/easter-eggs-java-port/
+  Dirs:
+    /assets/third_party/INFAREDD_easter_eggs
+
+Flower crowns [1.20.3-1.20.4] (Edited and with my own editions)
+  https://www.curseforge.com/minecraft/texture-packs/flower-crowns
+  Dirs:
+    /assets/flower_crowns
+  The same textures are also used for flower armor in:
+    /assets/flower_armor/*/texture.png
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Contributions:
+------------------------------------------------------------------------------------------------------------------------------------------------------
+The Masked Hat              : Tor Andersson
+  The Pearlecent Blade        : Simon KC
+  Harrelama                   : Tor Andersson / Simon KC
+  Axelot      (And assets)    : Tor Andersson
+  Chamelont   (And assets)    : Tor Andersson
+  Chipmunk    (And assets)    : Tor Andersson
+  bird        (And assets)    : Tor Andersson
+  bird_flying (And assets)    : Tor Andersson
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+For Players:
+------------------------------------------------------------------------------------------------------------------------------------------------------
+This resourcepack adds some items that can have their texture changed by renaming them:
+  mincraft:egg
+    Blue Egg
+    Blue Striped Egg
+    Blue Ornate Egg
+    Blue Decorated Egg
+    Green Egg
+    Green Striped Egg
+    Green Ornate Egg
+    Green Decorated Egg
+    Orange Egg
+    Orange Striped Egg
+    Orange Ornate Egg
+    Orange Decorated Egg
+    Purple Egg
+    Purple Striped Egg
+    Purple Ornate Egg
+    Purple Decorated Egg
+    Rainbow Egg
+    Red Egg
+    Red Striped Egg
+    Red Ornate Egg
+    Red Decorated Egg
+    Yellow Egg
+    Yellow Striped Egg
+    Yellow Ornate Egg
+    Yellow Decorated Egg
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Changelog:
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  4.0a2: Strict JSON mode and updates to twemoji.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Hashes
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  4.0a2.zip: 830DAF8685966861E18EEB55758DB4574520F74B (sha1)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+License
+------------------------------------------------------------------------------------------------------------------------------------------------------
+This resourcepack is created for use on a private Minecraft server and is not intended for public distribution or use by others outside that server.
+
+It has been uploaded to GitHub to make sharing and access easier for server members, and to support server linking and resourcepack hosting.
+
+The pack includes a combination of personal assets and merged content from other resourcepacks. Paths and credits for merged assets are listed in the info/readme file. The original creators of those merged assets retain full ownership under the licenses applicable at the time of download. They also reserve the right to request removal of their content.
+
+For removal requests or questions, please contact the author of this resourcepack directly (@sbamboo on Github).
+
+You are allowed to use this resourcepack only if you provide proper credit to all asset authors and link to this license/information. If you're only interested in the merged assets, direct download links (when applicable) are available in the readme/info file.
+
+Attribution Exception:
+  Players are not required to provide attribution if they are using the resourcepack on a server where:
+    - The server owner has received personal permission from the author of this resourcepack, and
+    - The resourcepack is automatically applied to players by the server.
+
+---
+
+Disclaimer:
+This resourcepack is provided as is. The author is not responsible for any issues that may arise from its use, and accepts no liability for any resulting claims or damages. Use at your own risk.
